@@ -12,22 +12,22 @@ class Qqq < Formula
   on_macos do
     on_arm do
       url "https://github.com/QRun-IO/qqq-cli/releases/download/cli-v#{version}/qqq-darwin-arm64"
-      sha256 "REPLACED_FROM_SHA256SUMS"
+      sha256 "0000000000000000000000000000000000000000000000000000000000000000"
     end
     on_intel do
       url "https://github.com/QRun-IO/qqq-cli/releases/download/cli-v#{version}/qqq-darwin-x64"
-      sha256 "REPLACED_FROM_SHA256SUMS"
+      sha256 "0000000000000000000000000000000000000000000000000000000000000000"
     end
   end
 
   on_linux do
     on_arm do
       url "https://github.com/QRun-IO/qqq-cli/releases/download/cli-v#{version}/qqq-linux-arm64"
-      sha256 "REPLACED_FROM_SHA256SUMS"
+      sha256 "0000000000000000000000000000000000000000000000000000000000000000"
     end
     on_intel do
       url "https://github.com/QRun-IO/qqq-cli/releases/download/cli-v#{version}/qqq-linux-x64"
-      sha256 "REPLACED_FROM_SHA256SUMS"
+      sha256 "0000000000000000000000000000000000000000000000000000000000000000"
     end
   end
 
